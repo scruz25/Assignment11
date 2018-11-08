@@ -1,0 +1,27 @@
+body{
+	font-family: 'Shadows Into Light', cursive;
+/*	background-image: url("background.png");
+  background-size: cover;*/
+background-color: lightblue;}
+
+h1{
+	color: green;
+}
+
+h3{
+	color: black;
+}
+
+div{display: block;
+    color: #666;
+    text-align: left;
+    padding: 1px 50px
+  }
+
+  li{
+  	color: black;
+  }
+
+  p{
+  	color: black;
+  }
